@@ -1,4 +1,7 @@
 # calculator-app
+```
+A Simple Calculator Application using Vue Js
+```
 
 ## Project setup
 ```
